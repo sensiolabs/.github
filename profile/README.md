@@ -28,6 +28,7 @@ Here are some resources you can find to follow us 👇
 * [StorybookBundle](https://github.com/sensiolabs/StorybookBundle): an integration for Symfony to build and test UI components making them easier to document and maintain.
 * [AssetMapperTypeScriptBundle](https://github.com/sensiolabs/AssetMapperTypeScriptBundle): compile TypeScript and use it with the AssetMapper Component in Symfony.
 * [MinifyBundle](https://github.com/sensiolabs/minify-bundle): integrates [Minify](https://github.com/tdewolff/minify) into Symfony Asset Mapper.
+* [StoryBlokBundle](https://github.com/storyblok/symfony-bundle): a Symfony bundle to integrate the [Storyblok headless CMS](https://www.storyblok.com/) with your Symfony application.
 
 We’re thrilled to support versions of Symfony, as well as components of the framework, through the [Backers](https://symfony.com/backers) program.
 
